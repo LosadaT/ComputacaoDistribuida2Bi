@@ -1,0 +1,18 @@
+===========================================
+    RESULTADO FINAL DA VOTAÇÃO
+===========================================
+
+Data: Fri Nov 28 20:33:51 2025
+
+Total de votos: 0
+Total de votantes registrados: 1
+
+-------------------------------------------
+Opção                              Votos  %
+-------------------------------------------
+Candidato A - Inovação e Tecnologia     0   0.00%
+Candidato B - Educação e Cultura      0   0.00%
+Candidato C - Saúde e Bem-Estar        0   0.00%
+Candidato D - Meio Ambiente             0   0.00%
+Candidato E - Desenvolvimento Econômico     0   0.00%
+-------------------------------------------

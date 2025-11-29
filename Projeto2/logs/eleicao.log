@@ -1,0 +1,24 @@
+[2025-11-28 20:33:46] === Servidor iniciado ===
+[2025-11-28 20:33:46] Carregadas 5 opções de votação
+[2025-11-28 20:33:46] Servidor aguardando conexões na porta 8080
+[2025-11-28 20:33:49] Nova conexão estabelecida (socket 5)
+[2025-11-28 20:33:49] Recebido de não autenticado: HELLO ADMIN
+[2025-11-28 20:33:49] Cliente autenticado: ADMIN
+[2025-11-28 20:33:51] Recebido de ADMIN: ADMIN CLOSE
+[2025-11-28 20:33:51] Comando ADMIN CLOSE reconhecido
+[2025-11-28 20:33:51] Encerrando eleição...
+[2025-11-28 20:33:51] Eleição encerrada por comando administrativo
+[2025-11-28 20:33:51] Resultado final salvo em logs/resultado_final.txt
+[2025-11-28 20:33:51] Resposta enviada: OK ELECTION_CLOSED
+[2025-11-28 20:34:00] Nova conexão estabelecida (socket 6)
+[2025-11-28 20:34:00] Recebido de não autenticado: HELLO 2
+[2025-11-28 20:34:00] Cliente autenticado: 2
+[2025-11-28 20:34:04] Recebido de 2: BYE
+[2025-11-28 20:34:04] Cliente 2 encerrou sessão
+[2025-11-28 20:34:27] Nova conexão estabelecida (socket 6)
+[2025-11-28 20:34:27] Recebido de não autenticado: HELLO 2
+[2025-11-28 20:34:27] Cliente autenticado: 2
+[2025-11-28 20:34:29] Recebido de 2: VOTE 1
+[2025-11-28 20:34:29] Processando comando VOTE
+[2025-11-28 20:34:29] Cliente autenticado, verificando eleição
+[2025-11-28 20:34:29] Eleição fechada? 1

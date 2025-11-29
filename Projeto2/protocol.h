@@ -1,0 +1,28 @@
+#ifndef PROTOCOL_H
+#define PROTOCOL_H
+
+#define MAX_BUFFER 4096
+#define MAX_VOTER_ID 64
+#define MAX_OPTION_NAME 128
+#define MAX_OPTIONS 10
+#define MAX_CLIENTS 100
+
+// Protocolo de mensagens
+#define CMD_HELLO "HELLO"
+#define CMD_LIST "LIST"
+#define CMD_VOTE "VOTE"
+#define CMD_SCORE "SCORE"
+#define CMD_BYE "BYE"
+#define CMD_ADMIN_CLOSE "ADMIN CLOSE"
+
+#define RESP_WELCOME "WELCOME"
+#define RESP_OPTIONS "OPTIONS"
+#define RESP_OK_VOTED "OK VOTED"
+#define RESP_ERR_DUPLICATE "ERR DUPLICATE"
+#define RESP_ERR_INVALID "ERR INVALID_OPTION"
+#define RESP_SCORE "SCORE"
+#define RESP_CLOSED "CLOSED FINAL"
+#define RESP_ERR_CLOSED "ERR CLOSED"
+#define RESP_BYE "BYE"
+
+#endif
